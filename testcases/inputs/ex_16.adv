@@ -1,0 +1,16 @@
+alpha = 4
+beta = alpha + 7
+gamma = alpha * beta * beta * beta
+delta = gamma - alpha + beta
+epsilon = delta | gamma + alpha
+alpha
+beta
+gamma
+delta
+epsilon
+(epsilon = gamma) = rs(xor(epsilon, (beta)), 2)
+epsilon
+eta = ls(epsilon, ((1)))
+theta = eta + 1
+eta
+theta

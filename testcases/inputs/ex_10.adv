@@ -1,0 +1,20 @@
+x = 6
+y = x + 2 * (x - 1) / 2
+z = y * (1 + y) + x * (y - x) - x
+a = ls(z, 1) - rs(z, x) + y * (z - x) / 3
+b = a - a + a * a / a - 2 * y + ls(a, 1) - rs(a, 1)
+x
+y
+z
+a
+b
+x = 1
+y = x
+z = y
+a = z
+b = x
+x
+y
+a
+b
+z

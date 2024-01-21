@@ -1,0 +1,8 @@
+x = 1
+y = x + 3
+z = x * y * y*y
+z
+xor(((x)), x)
+xor(((x)), x) | z + y
+rs(xor(((x)), x) | z + y, 1)
+ls(rs(xor(((x)), x) | z + y, 1), (((1))))
